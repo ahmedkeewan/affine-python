@@ -1,7 +1,6 @@
 #Affine encryption/decryption algorithm
 #Author: Ahmed Keewan
-#ST_ID: 0166851
-#ST_Section: 8-9:30
+
 
 #to stop the execution of the program if the modular inverse doesn't exist
 import sys as system
